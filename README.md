@@ -13,6 +13,7 @@
 10. Python Feature Engineering- https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN
 11. Power BI- https://ineuron.ai/home/coursedetail/powerbi--100
 12. Tableau- https://ineuron.ai/home/coursedetail/tableau-101
+14. R programming- https://www.youtube.com/watch?v=Q5g6lYUn6Q4
 
 # Ineuron Affordable Data Analyst And BA Course
 https://ineuron.ai/home/coursedetail/business-analytics-153
